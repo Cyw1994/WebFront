@@ -10,7 +10,7 @@
 
    这个命令会初始化一个工程、下载React Native的所有源代码和依赖包，最后在`AwesomePrjoect/iOS/AwesomeProject.xcodeproj`和`AwesomeProject/android/app`下分别创建一个新的XCode工程和一个gradle工程。
 
-   **注意**：**不加 --version 的话，init 会报错 **
+   **注意**：不加 --version 的话，init 会报错 
 
 
 ![native1](img/native1.png)
@@ -35,7 +35,7 @@ Flex 是 Flexible Box 的缩写，意为"弹性布局"，用来为盒状模型�
 
 采用 Flex 布局的元素，称为 Flex 容器（flex container），简称"容器"。它的所有子元素自动成为容器成员，称为 Flex 项目（flex item），简称"项目"。 
 
-![native2](img\native2.png)
+![native2](img/native2.png)
 
 容器默认存在两根轴：水平的主轴（main axis）和垂直的交叉轴（cross axis）。主轴的开始位置（与边框的交叉点）叫做`main start`，结束位置叫做`main end`；交叉轴的开始位置叫做`cross start`，结束位置叫做`cross end`。
 
@@ -68,7 +68,7 @@ Flex 是 Flexible Box 的缩写，意为"弹性布局"，用来为盒状模型�
    }
    ```
 
-![native3](img\native3.png)
+![native3](img/native3.png)
 
 - `row`（默认值）：主轴为水平方向，起点在左端。
 
@@ -86,15 +86,15 @@ Flex 是 Flexible Box 的缩写，意为"弹性布局"，用来为盒状模型�
 
 - `nowrap`（默认值）：不换行。
 
-  ![native4](img\native4.png)
+  ![native4](img/native4.png)
 
 - `row-reverse`：换行，紧接上一行下方。
 
-  ![native5](img\native5.png)
+  ![native5](img/native5.png)
 
 - `column`：换行，上一行向下移位。
 
-  ![native6](img\native6.png)
+  ![native6](img/native6.png)
 
 3. flex-flow
 
@@ -126,7 +126,7 @@ Flex 是 Flexible Box 的缩写，意为"弹性布局"，用来为盒状模型�
 
 - `space-around`：每个项目两侧的间隔相等。所以，项目之间的间隔比项目与边框的间隔大一倍。
 
-  ![native7.](img\native7..png)
+  ![native7.](img/native7..png)
 
 5. align-items
 
@@ -156,7 +156,7 @@ align-content
 > }
 > ```
 
-![img](img\native9.png)
+![img](img/native9.png)
 
 该属性可能取6个值。
 
