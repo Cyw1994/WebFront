@@ -13,7 +13,7 @@
    **注意**：**不加 --version 的话，init 会报错 **
 
 
-![native1](img\native1.png)
+![native1](img/native1.png)
 
 ## 二. Flex 布局
 
