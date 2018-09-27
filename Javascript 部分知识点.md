@@ -2,7 +2,7 @@
 
 ![img](https://uploadfiles.nowcoder.net/images/20170326/9124108_1490460615841_05B68C8AD8B98CBD78BFF4B350DDEFDC) 
 
-![array](C:\Users\i353670\Desktop\文件夹\Learning\img\array.png)
+![array](img/array.png)
 
 正则匹配
 
@@ -109,7 +109,7 @@ ECMAScript  5种简单数据类型：
 
   
 
-  ![js-array-01](C:\Users\i353670\Desktop\文件夹\Learning\img\js-array-01.png)
+  ![js-array-01](img/js-array-01.png)
 
   
 
